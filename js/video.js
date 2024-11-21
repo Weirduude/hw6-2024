@@ -6,7 +6,7 @@ window.addEventListener("load", function() {
 	video.autoplay = false;
 	video.loop = false;
 
-	video.volume = 1.0; // Full volume
+	// video.volume = 1.0; // Full volume
     // document.getElementById("volume").innerText = `${video.volume * 100}%`;
 
 	// Play
